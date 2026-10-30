@@ -1,0 +1,17 @@
+# This is a documentation-only public repository.
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+*.log
+.DS_Store
+Thumbs.db
+node_modules/
+dist/
+build/
+.private/
+secrets/
+credentials/
